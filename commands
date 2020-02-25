@@ -1,0 +1,74 @@
+#     #
+#     #    ##     ####   #    #  ######  #####   #####   #    #  #    #  #    #
+#     #   #  #   #    #  #   #   #       #    #  #    #  #    #  ##   #  #   #
+#######  #    #  #       ####    #####   #    #  #    #  #    #  # #  #  ####
+#     #  ######  #       #  #    #       #####   #####   #    #  #  # #  #  #
+#     #  #    #  #    #  #   #   #       #   #   #       #    #  #   ##  #   #
+#     #  #    #   ####   #    #  ######  #    #  #        ####   #    #  #    #
+
+ _____________
+< Hackerpunks >
+ -------------
+    \
+     \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+        "*$bd$$$$      '*$$$$$$$$$$$o+#"
+             """"          """""""
+pricklejams@DESKTOP-C4AT34K:~$ recon-ng
+[*] Version check disabled.
+
+    _/_/_/    _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/_/_/
+   _/    _/  _/        _/        _/      _/  _/_/    _/            _/_/    _/  _/
+  _/_/_/    _/_/_/    _/        _/      _/  _/  _/  _/  _/_/_/_/  _/  _/  _/  _/  _/_/_/
+ _/    _/  _/        _/        _/      _/  _/    _/_/            _/    _/_/  _/      _/
+_/    _/  _/_/_/_/    _/_/_/    _/_/_/    _/      _/            _/      _/    _/_/_/
+
+
+                                          /\
+                                         / \\ /\
+    Sponsored by...               /\  /\/  \\V  \/\
+                                 / \\/ // \\\\\ \\ \/\
+                                // // BLACK HILLS \/ \\
+                               www.blackhillsinfosec.com
+
+                  ____   ____   ____   ____ _____ _  ____   ____  ____
+                 |____] | ___/ |____| |       |   | |____  |____ |
+                 |      |   \_ |    | |____   |   |  ____| |____ |____
+                                   www.practisec.com
+
+                      [recon-ng v5.1.1, Tim Tomes (@lanmaster53)]
+
+[*] No modules enabled/installed.
+
+[recon-ng][default] >hit double TAB to  get a list of options example
+[recon-ng][default] >
+back         exit         keys         options      shell        spool
+dashboard    help         marketplace  pdb          show         workspaces
+db           index        modules      script       snapshots
+[recon-ng][default] >shell ifconfig
+[*] Command: ifconfig
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 1500
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0xfe<compat,link,site,host>
+        loop  (Local Loopback)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wifi0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.7  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::8850:b46e:f11e:f800  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 10:4a:7d:94:29:01  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+[recon-ng][default] >
